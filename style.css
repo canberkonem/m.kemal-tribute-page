@@ -1,0 +1,45 @@
+#main {
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    font-size: 17px;
+}
+
+#image{
+    display: block;
+    max-width:100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-div {
+    background-color:white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+        
+}
+
+#tribute-info{
+    list-style-position: inside;
+    max-width: 850px;
+    margin: auto;
+    text-align: left;
+    line-height: 30px;
+}
+
+body{
+    background-color:rgb(216, 216, 216);
+}
+
+h2{
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 4rem;
+}
+p{
+    font-size: 1.5rem;
+}
